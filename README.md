@@ -5,7 +5,7 @@
 
 # ¡Ey, que tál! 👋
 
-¡Bienvenido a mi rincón de GitHub! soy Hennessy, un apasionado por la tecnología y el desarrollo de software. 
+¡Bienvenido a mi rincón de GitHub! 🚀 aquí Soy Hennessy, un joven de 19 años apasionado por el mundo del código y la tecnología.
 
 ## Acerca de mí 🚀
 
