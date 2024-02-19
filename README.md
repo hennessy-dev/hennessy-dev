@@ -27,7 +27,8 @@ Disfruto explorando nuevas tecnologías y construyendo soluciones creativas. Act
 
 ¡Contactame! Puedes encontrarme en:
 
-- 📧 Email: juandavid.dev00@outlook.com
-- 💼 LinkedIn: [Perfil en construcción]
+- [📧 Email](juandavid.dev00@outlook.com): `juandavid.dev00@outlook.com`
+- [💼 LinkedIn](https://www.linkedin.com/in/jd-contreras-hernandez)
+
 
 ¡Gracias por visitar mi perfil! 😊
